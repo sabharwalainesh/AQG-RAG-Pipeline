@@ -1,4 +1,4 @@
-# AQG-RAG-Pipeline
+# AQG-RAG-Pipeline (Last Updated: Spring 2025)
 
 A retrieval-augmented generation (RAG) pipeline for **Automated Question Generation (AQG)** over
 college-level textbook content. The system indexes OpenStax chapter text, retrieves topically
