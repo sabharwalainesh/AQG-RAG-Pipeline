@@ -1,0 +1,8 @@
+# Pinned to match the notebook. LangChain 0.0.327 predates the
+# langchain-community split; newer versions break the imports used here.
+langchain==0.0.327
+openai==0.27.10
+chromadb==0.4.15
+pydantic==2.7.4
+tiktoken
+pandas

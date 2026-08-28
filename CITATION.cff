@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this pipeline, please cite it along with the EduQG dataset it builds on."
+title: "AQG-RAG-Pipeline: Retrieval-Augmented Multiple-Choice Question Generation over OpenStax Textbooks"
+authors:
+  - family-names: Sabharwal
+    given-names: Ainesh
+repository-code: "https://github.com/sabharwalainesh/AQG-RAG-Pipeline"
+license: MIT
+references:
+  - type: article
+    title: "EduQG: A Multi-Format Multiple-Choice Dataset for the Educational Domain"
+    authors:
+      - family-names: Hadifar
+        given-names: Amir
+      - family-names: Bitew
+        given-names: "Semere Kiros"
+      - family-names: Deleu
+        given-names: Johannes
+      - family-names: Develder
+        given-names: Chris
+      - family-names: Demeester
+        given-names: Thomas
+    journal: "IEEE Access"
+    volume: 11
+    start: 20885
+    end: 20896
+    year: 2023

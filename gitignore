@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets — never commit an API key
+.env
+*.key
+
+# Vector store artifacts
+.chroma/
+chroma_db/
+*.sqlite3
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
